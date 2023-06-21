@@ -4,7 +4,7 @@
 ```
 ## 🌟 About me
 
-* My area of work is diversified into various domains, which mainly include DevOps, Full-stack web development, Artificial Intelligence, Deep Learning and solving crunch data structures and algorithm problems.
+* My area of work is diversified into various domains, which mainly include Machinre Learning, Web App Development using Streamlit, Artificial Intelligence, Deep Learning and solving crunch data structures and algorithm problems.
 <!--
 **SiddharthaChakrabarty/SiddharthaChakrabarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
