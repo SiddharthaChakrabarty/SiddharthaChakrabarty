@@ -1,4 +1,4 @@
-![image](https://github.com/SiddharthaChakrabarty/SiddharthaChakrabarty/assets/119057806/7620bbc1-49fb-45e3-b3ad-21e9f14368cb)
+![image](https://github.com/SiddharthaChakrabarty/SiddharthaChakrabarty/assets/119057806/3a4a46c1-8047-486b-b725-17acde062e8c)
 
 <h1 align="center">Hi 👋, I'm Siddhartha Chakrabarty</h1>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
