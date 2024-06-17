@@ -2,7 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Siddhartha Chakrabarty</h1>
-<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">Passionate Full-Stack Web Developer and AI/ML Engineer</h3>
+<h3 >Technical Skills - </h3>
+<ul>
+  <li>Full-Stack Development: MERN (MongoDB, Express.js, React, Node.js)</li>
+  <li>Frontend: HTML, CSS, JavaScript</li>
+  <li>Backend: Python</li>
+  <li>AI/ML: Building and deploying machine learning models</li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthachakrabarty&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthachakrabarty" /> </p>
 
@@ -10,7 +17,6 @@
 
 <p align="left"> <a href="https://twitter.com/schakrabarty23" target="blank"><img src="https://img.shields.io/twitter/follow/schakrabarty23?logo=twitter&style=for-the-badge" alt="schakrabarty23" /></a> </p>
 
-- 🌱 I’m currently learning **WordPress**
 
 - 💬 Ask me about **MERN stack and related technologies**
 
